@@ -24,3 +24,9 @@ Flask / FastAPI – For model deployment
 
 # Conclusion
 This project provides a data-driven approach to predicting employee salaries, reducing human bias and increasing efficiency in salary management. With continuous data updates and model improvements, organizations can ensure fair and competitive compensation strategies.
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/b9460e9e-8e59-47ab-993e-72629b3c48de)
+
+![Image](https://github.com/user-attachments/assets/8306a844-d037-47ce-ae84-af538a30b040)
+
+![Image](https://github.com/user-attachments/assets/d5f219f7-8a27-4637-9297-3e7705aabb1e)
